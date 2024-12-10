@@ -1,0 +1,14 @@
+Dec 10, 2024 1:19:31 AM com.jorsek.ditaot.log.LogListener run
+INFO: Listening for logs...
+Dec 10, 2024 1:19:32 AM com.jorsek.ditaot.log.LogListener run
+INFO: statusCheckLoop 2
+Dec 10, 2024 1:19:33 AM com.jorsek.ditaot.log.LogListener run
+INFO: statusCheckLoop 3
+Dec 10, 2024 1:19:34 AM com.jorsek.ditaot.log.LogListener run
+INFO: statusCheckLoop 4
+Dec 10, 2024 1:19:35 AM com.jorsek.ditaot.log.LogListener run
+INFO: statusCheckLoop 5
+Dec 10, 2024 1:19:36 AM com.jorsek.ditaot.log.LogListener run
+INFO: statusCheckLoop 6
+Dec 10, 2024 1:19:36 AM com.jorsek.ditaot.log.LogListener run
+INFO: Process finished...
